@@ -1,4 +1,4 @@
-const baseURL = 'http://radiant-everglades-27491.herokuapp.com'
+const baseURL = 'https://radiant-everglades-27491.herokuapp.com'
 // 投稿リストの DOM 要素オブジェクトを取得
 const postList = document.getElementById('post-list')
 
